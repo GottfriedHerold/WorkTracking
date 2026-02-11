@@ -1,3 +1,26 @@
 [
-
+	{
+		"title": "Robust Distributed Arrays: Provably Secure Networking for Data Availability Sampling",
+		"description": "",
+		"tags": ["Paper", "Data Availability Sampling", "Networking"],
+		"url": "https://arxiv.org/abs/2504.13757",
+		"date": "2025-04-22",
+		"authors": ["Dankrad Feist", "Gottfried Herold", "Mark Simkin", "Benedikt Wagner"]
+	},
+	{
+		"title": "Cryptanalysis of Algebraic Verifiable Delay Functions",
+		"description": "",
+		"tags": ["Paper", "Cryptanalysis", "VDF"],
+		"url": "https://eprint.iacr.org/2024/873",
+		"authors": ["Alex Biryukov", "Ben Fisch", "Dmitry Khovratovich", "Gaëtan Leurent", "María Naya-Plasencia", "Benjamin Wesolowski"],
+		"date": "2024-06-05"
+	},
+	{
+		"title": "Chipmunk: Better Synchronized Multi-Signatures from Lattices",
+		"description": "",
+		"tags": ["Paper", "Signatures", "Signature Aggregation", "Post-Quantum"],
+		"authors": ["Nils Fleischhacker", "Gottfried Herold", "Mark Simkin", "Zhenfei Zhang"],
+		"url": "https://eprint.iacr.org/2023/1820",
+		"date": "2023-11-27"
+	}
 ]
